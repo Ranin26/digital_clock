@@ -27,5 +27,5 @@ lbl = Label(root, font = ('calibri', 40, 'bold'),
 # of the tkinter window
 lbl.pack(anchor = 'center')
 time()
- 
+
 mainloop()
